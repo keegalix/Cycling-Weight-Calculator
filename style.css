@@ -1,0 +1,49 @@
+#headertitle {
+    font-family: Verdana;
+}
+
+body {
+    font-family: Verdana;
+}
+
+
+#backtohomebutton {
+    text-decoration: none;
+    color: black;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.survey_label {
+    text-align:justify;
+    padding-left: 25%;
+}
+
+#submitbutton {
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+
+#submitbutton:hover {
+    background-color: white;
+    color: black;
+}
+
+.survey_file_label {
+    padding-left: 200px;
+    text-align: left;
+    justify-content: center;
+}
+
+#calculator_title {
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+
+#body_calculator {
+    text-align: center;
+}
+
